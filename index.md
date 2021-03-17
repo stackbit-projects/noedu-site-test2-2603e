@@ -23,10 +23,10 @@ sections:
       - title: Oppimisympäristökonsultointi ja kehitys
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |
+          Yhdistämme pedagogisen näkemyksen tekniseen näkökulmaan. 
+
+          Kysy oppimisympäristöihin liittyvistä kokonaisprojekteistamme.
         actions:
           - label: Learn More
             url: /features
