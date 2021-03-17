@@ -17,8 +17,7 @@ header:
     - label: Palvelumme
       url: '#palvelumme'
       style: link
-    - label: Yhteystiedot
-      url: /pricing
+    - url: /pricing
       style: link
     - label: Style Guide
       url: /style-guide
