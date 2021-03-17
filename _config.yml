@@ -14,7 +14,7 @@ header:
     - label: Etusivu
       url: /
       style: link
-    - label: Features
+    - label: Palvelumme
       url: /features
       style: link
     - label: Pricing
