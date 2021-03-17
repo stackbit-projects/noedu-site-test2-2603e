@@ -31,7 +31,7 @@ footer:
       image_alt: Footer logo
       content: Stackbit theme demo
     - type: footer_nav
-      title: Company
+      title: Noedu Oy
       nav_links:
         - label: About Us
           url: /about
