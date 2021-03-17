@@ -11,7 +11,7 @@ header:
   logo_img_alt: Logo
   has_nav: true
   nav_links:
-    - label: Home
+    - label: Etusivu
       url: /
       style: link
     - label: Features
