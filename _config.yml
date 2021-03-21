@@ -36,9 +36,6 @@ footer:
         - label: About Us
           url: /about
           style: link
-        - label: Sign Up
-          url: /signup
-          style: link
         - label: Ota yhteyttä
           url: /contact
           style: link
