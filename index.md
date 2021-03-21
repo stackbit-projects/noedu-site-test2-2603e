@@ -12,7 +12,7 @@ sections:
       - label: Lue lisää
         url: /palvelut
         style: primary
-  - section_id: features
+  - section_id: palvelumme
     type: section_features
     background: gray
     title: Palvelumme
