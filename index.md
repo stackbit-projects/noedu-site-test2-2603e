@@ -67,7 +67,7 @@ sections:
     title: Kerro meille tarpeesi!
     subtitle: Etsimme yhdessä ratkaisun koulutusjärjestelmäongelmiisi.
     actions:
-      - label: Get Started
+      - label: Ota yhteyttä
         url: /signup
         style: primary
   - section_id: recent-posts
