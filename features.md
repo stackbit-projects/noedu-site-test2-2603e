@@ -7,21 +7,32 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Asiantuntijapalvelumme
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Meillä on kokemusta muun muassa seuraavista
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      *   Lukion koejärjestelmät
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      *   Phasellus ut enim non lorem venenatis rutrum.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      #### Lukion koejärjestelmät
+
+
+      Lukiokoulutuksessa on yksi suljettu de facto -standardikoejärjestelmä.
+      Valitettavasti kyseinen järjestelmä on kehitetty lukion päättökokeiden
+      suorittamiseen ja muissa suhteissa joudutaan tyytymään kompromisseihin.
+
+
+      Meillä on syvällistä kokemusta koejärjestelmistä, mukaanlukien
+      standardijärjestelmä sekä koskien uutta että vanhaa koeformaattia. Kerro
+      meille tavoitteesi ja tarpeesi, niin katsomme yhdessä mihin pystymme
+      pääsemään. Todennäköisesti pidemmälle kuin kuvitteletkaan.
+
+
+      Etkö usko puheitamme? AbixApuri on ylläpidossamme
     actions:
       - label: Free Trial
         url: /signup
