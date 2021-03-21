@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-base_font: nunito-sans
+base_font: fira-sans
 palette: blue
 header:
   logo_img: images/noedu-logo.png
