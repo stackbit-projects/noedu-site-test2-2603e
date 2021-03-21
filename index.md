@@ -9,7 +9,7 @@ sections:
     content: |
       Noedulla on kokemusta oppimisympäristöistä ja 
     actions:
-      - label: Lue lisää projek
+      - label: Lue lisää
         url: /features
         style: primary
   - section_id: features
