@@ -21,7 +21,7 @@ header:
       style: link
       label: Yritys
     - label: Yhteystiedot
-      url: /style-guide
+      url: /yhteystiedot
       style: link
 footer:
   sections:
