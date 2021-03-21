@@ -15,7 +15,7 @@ header:
       url: /
       style: link
     - label: Palvelumme
-      url: '#palvelumme'
+      url: '/#palvelumme'
       style: link
     - url: /pricing
       style: link
