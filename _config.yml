@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 base_font: nunito-sans
-palette: cyan
+palette: blue
 header:
   logo_img: images/noedu-logo.png
   logo_img_alt: Etusivu
