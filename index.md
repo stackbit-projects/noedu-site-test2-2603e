@@ -65,7 +65,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Kerro meille tarpeesi!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Etsimme yhdessä ratkaisun koulutusjärjestelmäongelmiisi.
     actions:
       - label: Get Started
         url: /signup
