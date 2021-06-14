@@ -1,6 +1,6 @@
 ---
 title: VihkoOffline
-subtitle: A story about customer loyalty
+subtitle: Matematiikan muistivihkosi
 author: _data/authors/jane-doe.yaml
 excerpt: >-
   Matematiikan oppilastyökalu, joka mahdollistaa tehtävien tekemisen omassa
