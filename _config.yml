@@ -77,7 +77,7 @@ footer:
     - label: Käyttöehdot
       url: /terms-of-service
       style: link
-    - label: Privacy Policy
+    - label: Tietosuoja
       url: /privacy-policy
       style: link
   content: >-
